@@ -1,5 +1,6 @@
 <!--<img src="https://thumbs.gfycat.com/CreamyFormalChanticleer-max-1mb.gif" align="center" style="max-width:100%;">-->
 
+<img src="https://user-images.githubusercontent.com/56972234/110241218-a6b96080-7f75-11eb-9bf2-dc9310955e6e.gif" width="300" alt="iComics on an iPhone XS Max" align="right" style="max-width:100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=script-beast&label=Profile%20views&color=0e75b6&style=flat" alt="script-beast" /> </p>
 <br>
 <h1 align="center">Hi 👋, I'm Ankit Prajapati</h1>
@@ -25,5 +26,5 @@ Here are some ideas to get you started:
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=script-beast&show_icons=true&theme=monokai&locale=en" alt="script-beast" /></p>
 <br>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=script-beast&" alt="script-beast" /></p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=script-beast" alt="script-beast" /></a> </p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=script-beast&" alt="script-beast" /></p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=script-beast" alt="script-beast" /></a> </p> -->
