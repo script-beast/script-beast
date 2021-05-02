@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/CreamyFormalChanticleer-max-1mb.gif" align="center" style="max-width:100%;">
+<!--<img src="https://thumbs.gfycat.com/CreamyFormalChanticleer-max-1mb.gif" align="center" style="max-width:100%;">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=script-beast&label=Profile%20views&color=0e75b6&style=flat" alt="script-beast" /> </p>
 <br>
