@@ -6,7 +6,7 @@
 <h3 align="center">A Technophile and Music Lover</h3>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/56972234/110241218-a6b96080-7f75-11eb-9bf2-dc9310955e6e.gif" width="300" alt="iComics on an iPhone XS Max" align="right" style="max-width:100%;">
+<!--<img src="https://user-images.githubusercontent.com/56972234/110241218-a6b96080-7f75-11eb-9bf2-dc9310955e6e.gif" width="300" alt="Access Denied" align="right" style="max-width:100%;">-->
 
 Here are some ideas to get you started:
 
