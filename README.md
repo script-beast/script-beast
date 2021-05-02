@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=script-beast&show_icons=true&locale=en&layout=compact" alt="script-beast" /></p>
 <br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=script-beast&show_icons=true&locale=en" alt="script-beast" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=script-beast&" alt="script-beast" /></p>
