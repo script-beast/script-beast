@@ -1,19 +1,14 @@
-
-
-**script-beast/script-beast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=script-beast&label=Profile%20views&color=0e75b6&style=flat" alt="script-beast" /> </p>
+<br>
+<h1 align="center">Hi 👋, I'm Ankit Prajapati</h1>
+<h3 align="center">A Technophile and Music Lover</h3>
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web Security
 - 🤔 I’m looking for help with my earnestness
 - 💬 Ask me about Cyber security
 - 📫 How to reach me: ankitkp028@gmail.com
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=script-beast&label=Profile%20views&color=0e75b6&style=flat" alt="script-beast" /> </p>
 <br>
-<h1 align="center">Hi 👋, I'm Ankit Prajapati</h1>
-<h3 align="center">A Technophile and Music Lover</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-prajapati-8056aa194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ankit-prajapati-8056aa194" height="30" width="40" /></a>
