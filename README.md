@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=script-beast&show_icons=true&theme=monokai&locale=en" alt="script-beast" /></p>
 <br>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ankit-prajapati-8056aa194" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ankit-prajapati-8056aa194?trk=profile-badge">Ankit Prajapati</a></div>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="ankit-prajapati-8056aa194" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ankit-prajapati-8056aa194?trk=profile-badge">Ankit Prajapati</a></div> -->
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=script-beast&" alt="script-beast" /></p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=script-beast" alt="script-beast" /></a> </p> -->
