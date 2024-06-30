@@ -10,9 +10,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Web Security
+- 🌱 I’m currently learning Full Stack Devlopment
 - 🤔 I’m looking for help with my earnestness
-- 💬 Ask me about Cyber security
+- 💬 Ask me about Web
 - 📫 How to reach me: ankitkp028@gmail.com
 <br>
 <h3 align="left">Connect with me:</h3>
